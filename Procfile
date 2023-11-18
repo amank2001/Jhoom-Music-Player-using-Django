@@ -1,0 +1,1 @@
+web: gunicorn DjangoMusicPlayer.wsgi --log-file -
